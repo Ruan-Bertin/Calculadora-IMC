@@ -1,0 +1,66 @@
+.tabela{
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  border-collapse: separate;
+  border-spacing: 8px;
+}
+
+.tabela th {
+  text-align: center;
+  background-color: #00008b;
+  color: #fff;  
+  border-radius: 5px;
+  width: 500px;
+  height: 40px;
+}
+
+.tabela tr{
+  width: 500px;
+  height: 30px;
+  font-size: 16px;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.resultado{
+  font-size: 22px;
+  background-color: #00008b;
+  color: #fff;  
+  width: 300px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 30px;
+}
+
+td{
+  border: 2px solid #0000003f;
+  width: 250px ;
+  font-weight:bolder;
+  border-radius: 5px;
+}
+
+.abaixo{
+  background-color: #f89898;
+}
+
+.normal{
+  background-color: #b6fcb6ab;
+}
+
+.sobrePeso{
+  background-color: #f0f09b;
+}
+
+.obesidade1{
+  background-color: #ebbb63;
+}
+
+.obesidade2{
+  background-color: #e04f4f8e;
+}
+
+.obesidade3{
+  background-color: #fc17178f;
+}
